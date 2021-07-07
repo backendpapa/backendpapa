@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 - 🏦 I'm currently working for a Idea based startup where i make applications based on ReactJs,VueJs,NodeJs/Express,Dfinity/Motoko,Azure 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily ```.mo``,``` .py```, ```.psql```,```.js```,```.C```
-- 🌱 I’m currently learning "C" "Kubernetes" and "Bash"
+- 🌱 I’m currently learning "Android"
 - 💬 Talk to me about Football,Life, Javascript and Startups
 - 😄 Language: "Js" "Python" "Postgresql" "Motoko" "Go" "C"
 - 📝 I am hopig to regularly write articles on [hashnode](https://backendpapa.hashnode.dev/) 
