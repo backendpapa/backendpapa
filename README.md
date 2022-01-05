@@ -1,7 +1,6 @@
  👋 Hi, I’m Akeju Paul @backendpapa
 - 👀 I’m interested in Backend development,Operating System,AI/DL and Blockchain
-- 🌱 I’m currently Algorithm and Data Structure
-- 💞️ Currently a softare development lead at DIYnamo -> https://github.com/diynamo
+- 🌱 I’m currently learning Algorithm and Data Structure
 - 📫 How to reach me: twitter-> https://www.twitter.com/backendpapa
 
 
