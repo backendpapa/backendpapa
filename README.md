@@ -1,10 +1,3 @@
- 👋 Hi, I’m Akeju Paul @backendpapa
-- 👀 I’m interested in Backend development,Operating System,AI/DL and Blockchain
-- 🌱 I’m currently learning Algorithm and Data Structure
-- 📫 How to reach me: twitter-> https://www.twitter.com/backendpapa
-
-
-
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center">
 <a href="https://twitter.com/backendpapa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="20" width="20" /></a>&nbsp;
